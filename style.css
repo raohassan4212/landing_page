@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-box {
+  background-image: url("https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 15px 60px;
+}
+
+.logo {
+    font-size: 25px;
+}
+
+.nav-btn {
+    margin: 0 40px;
+}
